@@ -4,11 +4,11 @@
 
 clients, customers, retention, turnover
 
-## A beginning.
+## The problem.
 
 All businesses seek to better serve current clients and to grow their client base. However, the latter goal requires an enormous amount of resources. The time and money spent researching and pitching potential clients and then incorporating new clients can add up quickly, and this can detract from improving services offered to current clients. One way to minimize resources spent on business development and better serve current clients is to increase retention of current clients.
 
-## A middle.
+## The solution.
 
 I propose a two-pronged solution to improve client retention rates. First, you must accurately identify which prospective clients are most likely to remain over time. Second, it is important to closely monitor current client characteristics and interactions to determine if they may become at risk of leaving. 
 
@@ -18,7 +18,7 @@ Once we have determined these characteristics, I develop a tool that allows the 
 
 The second part of this solution will depend on data about former clients. Similar techniques will reveal key indicators of client termination that can be used to categorize current clients into tiers based on their likelihood to terminate. This allows you to quickly identify ‘high risk’ clients and appropriately divert resources to ensure that they remain.  
 
-## An end.
+## The outcomes.
 
 Resources are limited even at the largest companies, so all business should strive to use their own resources in the most efficient way. This solution can dramatically increase client retention, decreasing spending on business development by thousands of dollars per year and freeing up current employees to focus on providing better services to current clients who will remain longer. This solution will become more effective over time as trends emerge within current and past clients, so data collection and analysis should continue to be a focus of your organization. 
 
