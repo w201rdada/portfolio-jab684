@@ -1,24 +1,25 @@
-# My first cool idea {#slug-one}
+# How to Win Clients and Keep 'Em {#client-retention}
 
 #### Keywords
 
-yaba, daba, do
+clients, customers, retention, turnover
 
 ## A beginning.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+All businesses seek to better serve current clients and to grow their client base. However, the latter goal requires an enormous amount of resources. The time and money spent researching and pitching potential clients and then incorporating new clients can add up quickly, and this can detract from improving services offered to current clients. One way to minimize resources spent on business development and better serve current clients is to increase retention of current clients.
 
 ## A middle.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+I propose a two-pronged solution to improve client retention rates. First, you must accurately identify which prospective clients are most likely to remain over time. Second, it is important to closely monitor current client characteristics and interactions to determine if they may become at risk of leaving. 
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+To solve the first problem, I determine the characteristics of a loyal customer using data science techniques applied to data about your current client base. An exploratory data analysis will reveal characteristics worth investigating further. 
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+Once we have determined these characteristics, I develop a tool that allows the user (such as a sales manager) to input characteristics of potential clients to predict their likelihood of being a loyal client. This tool can be used early in the business development process to better target potential clients. 
+
+The second part of this solution will depend on data about former clients. Similar techniques will reveal key indicators of client termination that can be used to categorize current clients into tiers based on their likelihood to terminate. This allows you to quickly identify ‘high risk’ clients and appropriately divert resources to ensure that they remain.  
 
 ## An end.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Resources are limited even at the largest companies, so all business should strive to use their own resources in the most efficient way. This solution can dramatically increase client retention, decreasing spending on business development by thousands of dollars per year and freeing up current employees to focus on providing better services to current clients who will remain longer. This solution will become more effective over time as trends emerge within current and past clients, so data collection and analysis should continue to be a focus of your organization. 
+
+It is important to note that this solution will not promise client retention of 100%, as there may be extenuating circumstances that affect whether a client remains. However, this will capture many of your more ‘typical’ clients and allow you to refocus resources on anomalies if they arise. Additionally, this solution must be also paired with a continued focus on growing your client base and providing the best client services possible. 
