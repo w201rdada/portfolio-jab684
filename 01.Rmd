@@ -1,25 +1,30 @@
-# How to Win Clients and Keep 'Em {#client-retention}
+# How to Win Customers and Keep 'Em {#customer-retention}
 
 #### Keywords
 
-clients, customers, retention, turnover
+customers, clients, retention, turnover, churn, loyalty
 
 ## The problem.
 
-All businesses seek to better serve current clients and to grow their client base. However, the latter goal requires an enormous amount of resources. The time and money spent researching and pitching potential clients and then incorporating new clients can add up quickly, and this can detract from improving services offered to current clients. One way to minimize resources spent on business development and better serve current clients is to increase retention of current clients.
+All businesses share the goal of increasing profit; however, many businesses struggle to find the balance between devoting resources to customer acquisition vs. customer retention. While both are critical to a business’s success, customer retention is a more efficient and effective way to grow profit. Overall, customers are more likely to spend more money with companies they’ve already done business with^1^ and customer retention can cost up to seven times less than customer acquisition^2^. 
+
+Although the customer and the product/service varies, businesses from many sectors share the goal of improving customer retention rates. Whether it’s a department store serving shoppers, sporting venue serving ticket holders, or consulting firms serving clients, a business can increase customer retention by improving customer services and refining business development efforts. Achieving these can only be done with a thorough understanding of a business’s customers.
+
 
 ## The solution.
 
-I propose a two-pronged solution to improve client retention rates. First, you must accurately identify which prospective clients are most likely to remain over time. Second, it is important to closely monitor current client characteristics and interactions to determine if they may become at risk of leaving. 
-
-To solve the first problem, I determine the characteristics of a loyal customer using data science techniques applied to data about your current client base. An exploratory data analysis will reveal characteristics worth investigating further. 
-
-Once we have determined these characteristics, I develop a tool that allows the user (such as a sales manager) to input characteristics of potential clients to predict their likelihood of being a loyal client. This tool can be used early in the business development process to better target potential clients. 
-
-The second part of this solution will depend on data about former clients. Similar techniques will reveal key indicators of client termination that can be used to categorize current clients into tiers based on their likelihood to terminate. This allows you to quickly identify ‘high risk’ clients and appropriately divert resources to ensure that they remain.  
+I propose a tool that can be used by research analysts, sales teams, relationship managers, or marketing professionals to identify characteristics of loyal customers to help the business understand how to better serve these customers with the goal of improving client retention. This tool will examine trends in the characteristics of loyal (and un-loyal) customers to determine which characteristics indicate the likelihood of a customer to renew. Then, based on these characteristics, the tool develops a scoring algorithm indicating how likely a customer is to renew. It can be applied to all customers, highlighting those who are very likely or very unlikely to renew so the business can react accordingly. This tool can also be applied to prospective customers so that sales and business development teams can focus on marketing to types of customers that are more likely to be retained once they are acquired.
 
 ## The outcomes.
 
-Resources are limited even at the largest companies, so all business should strive to use their own resources in the most efficient way. This solution can dramatically increase client retention, decreasing spending on business development by thousands of dollars per year and freeing up current employees to focus on providing better services to current clients who will remain longer. This solution will become more effective over time as trends emerge within current and past clients, so data collection and analysis should continue to be a focus of your organization. 
+By revealing which customers are more likely to remain loyal, businesses can use this tool to focus on developing their product or service to better serve those customers’ needs. And, by highlighting which customers may be at risk of not renewing, the business can address potential issues to encourage them to renew. As a result, using this solution can dramatically improve customer retention and increase profit. Studies show that increasing customer retention by just 5% can lead to an increase in profit of up to 95%^3^, so small adjustments can make a large impact.
 
-It is important to note that this solution will not promise client retention of 100%, as there may be extenuating circumstances that affect whether a client remains. However, this will capture many of your more ‘typical’ clients and allow you to refocus resources on anomalies if they arise. Additionally, this solution must be also paired with a continued focus on growing your client base and providing the best client services possible. 
+It is important to recognize that achieving a customer retention rate of 100% is nearly impossible, as there may be extenuating circumstances that affect whether a customer renews. However, this tool captures most customers and allows businesses to refocus resources on anomalies if they arise. It can be used to make small changes to improve retention, such as offering incentives for staying or increasing personalized outreach. As time progresses and a business’s product or service develops, characteristics of loyal customers may change, so this tool should be used regularly to inform business development and customer service decisions so a business can continue success for many years.
+
+
+## Citations
+1: https://www.ngdata.com/s/customer-retention-software/
+
+2: https://www.ngdata.com/what-is-customer-retention/
+
+3: https://smallbiztrends.com/2014/09/increase-in-customer-retention-increases-profits.html
