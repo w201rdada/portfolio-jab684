@@ -2,23 +2,23 @@
 
 #### Keywords
 
-fundraising; university; nonprofit; development; donor
+philanthropy; fundraising; university; nonprofit; development; donor
 
-## The beginning.
-Fundraising is often the key to survival for non-profit organizations, particularly universities. As support from the federal, state, and local government looks bleak in the near future, many non-profits are refocusing efforts on individual giving. As need for funding increases, resources to achieve it stay stagnant or even decreases. Therefore, the ultimate goal of a fundraising or development team should always be to find the perfect balance of minimizing cost to fundraise (personnel, venues, food, goods, etc.) while increasing giving (amount, frequency, and reach). 
+## Increasing philanthropy without increasing expenditures
+Philanthropy and funraising are key to survival for non-profit organizations, particularly universities. Federal and state government support goes primarily to public universities^1^, but almost 20%^2^ of college students attend private universities. These universities must rely more heavily on philanthropy to support project-based endeavors, special interest groups, upgrading/repairing facilities, and most importantly, scholarships to supplement income from tuition and grants. As the need for funding increases, resources to achieve it stagnate. Therefore, fundraising and development team must strive for the perfect balance of minimizing cost to fundraise (personnel, venues, food, goods, etc.) while increasing giving (amount, frequency, and reach).
 
-Achieving this lofty goal requires a sophisticated approach to optimizing marketing and outreach campaigns. Luckily, universities collect a lot of data on donors – which is increasingly easier in this day and age – but most don’t know what to do with it. This is where we come in – we can help your university better utilize donor data to increase fundraising capabilities while decreasing cost.
-
-
-## The middle.
-The primary question your development office seeks to answer is: How can we optimize fundraising efforts? Our software tool, FUNdraiser, can help. We input data that you are already gathering about donor (and potential donor) demographic information; giving history; and engagement with email campaigns, LinkedIn, Facebook, and in-person events. FUNdraiser uses all of this to build a predictive model for a particular donor’s (or group of donors) likelihood to give, which can be tailored depending on the goal of the fundraising campaign at hand. For example, you can set the optimization goal to be to maximize giving potential for major gifts, or to increase giving engagement (of any size) within a particular group of donors. 
-
-FUNdraiser will help you take the first steps to better utilizing data for fundraising. The process is iterative: an initial survey of the data will help identify: 1) strong predictors of giving; 2) areas of growth (weak predictors) for giving; and even 3) areas of improvement for data gathering. 
-
-Results are clearly displayed using state of the art data visualization tools that can be easily understood by all interested parties such as development officers, board members, and CEOs.
+Achieving this lofty goal requires a sophisticated approach to optimizing marketing and outreach campaigns. Luckily, universities collect a lot of data on donors, which is increasingly easier in this day and age, but most don’t know what to do with it. This is where we come in – we can help your university better utilize donor data to increase fundraising capabilities while decreasing cost. 
 
 
-## The end.
+## Philanthropy optimization made easy
+Our software tool, FUNdraiser, goes beyond current approaches that focus primarily on descriptive statistics and analysis from email marketing, donations, and events. It easily imports existing data about donor demographic information, giving history, and online and in-person engagement. FUNdraiser then develops an algorithm based that is used to build a predictive model for a particular donor’s (or group of donors’) likelihood to give. The process is iterative: FUNdraiser integrates with email, donation tracking, and event registration platforms so it can easily gather new data to update its algorithm and identify strong predictors of giving over time. 
+
+FUNdraiser also allows you to quickly segment data so you can create new campaigns and change the optimization goal with just the click of a button. This way, you can monitor multiple campaigns, from increasing philanthropic engagement by recent alumni to maximizing gifts over $1,000,000.
+
+In FUNdraiser, results are clearly displayed using state-of-the-art data visualization tools that can be easily understood by all interested parties, such as development officers, board members, and CEOs. Our comprehensive fundraising support system also offers one-on-one consulting for how to use these results for annual and long-term planning, large- and small-scale budgeting, and short-term prediction for smaller campaigns and outreach.
+
+
+## To millions and beyond
 Our comprehensive fundraising support system also offers one-on-one consulting for how to use these results for annual and long-term planning, large- and small-scale budgeting, and short-term prediction for smaller campaigns and outreach. 
 
 However, many seasoned fundraising professionals will claim that fundraising is an “art and a science,” and while I firmly believe that there’s more science to it than you think, there is still the art of personal outreach and building connections, which drive engagement, which is ultimately reflected in the data. 
@@ -27,3 +27,7 @@ It is also important to keep in mind is that just because a particular factor is
 
 Correctly using the insights gathered using FUNdraiser can result in huge financial gains for your university. This allows more students to attend college through the support of financial aid, provides students an enhanced educational experience with increased resources, facilitates success for them in their further education and career, all of which ultimately drive interest and prestige for your university.
 
+## Bibliography
+
+1. http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2015/06/federal-and-state-funding-of-higher-education
+2. https://www.usnews.com/education/blogs/the-college-solution/2011/09/06/20-surprising-higher-education-facts
