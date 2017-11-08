@@ -19,13 +19,10 @@ In FUNdraiser, results are clearly displayed using state-of-the-art data visuali
 
 
 ## To millions and beyond
-Our comprehensive fundraising support system also offers one-on-one consulting for how to use these results for annual and long-term planning, large- and small-scale budgeting, and short-term prediction for smaller campaigns and outreach. 
+Correctly using the insights gathered through FUNdraiser can result in huge financial gains for your university. As endowments grow, you can re-invest in students through financial aid or educational initiatives that enhance the learning experience. This ultimately drives interest and prestige for your university so it can develop in the future.
 
-However, many seasoned fundraising professionals will claim that fundraising is an “art and a science,” and while I firmly believe that there’s more science to it than you think, there is still the art of personal outreach and building connections, which drive engagement, which is ultimately reflected in the data. 
+One area of growth for FUNdraiser is a feature that show “up and coming” donors – they may not have a high potential to give at the moment, but small changes in outreach or alternative campaigns could drastically increase their potential. Just because a particular factor is currently less of a predictor, or a certain individual is less likely to give, that may change in the future as a result of actions taken. Current tools, including FUNdraiser, are unable to account for this. Personal outreach and building connections drive engagement, which is ultimately reflected in the data. FUNdraiser is most effective when used to inform these interactions, the results of which can be re-introduced to the model to enhance fundraising efforts. 
 
-It is also important to keep in mind is that just because a particular factor is less of a predictor, or a certain group is less likely to give, this doesn’t mean you should ignore them. In fact, you should question, “Why isn’t this group as likely to give? What can we do to increase that likelihood?” and re-focus efforts on increasing giving in those groups.
-
-Correctly using the insights gathered using FUNdraiser can result in huge financial gains for your university. This allows more students to attend college through the support of financial aid, provides students an enhanced educational experience with increased resources, facilitates success for them in their further education and career, all of which ultimately drive interest and prestige for your university.
 
 ## Bibliography
 
