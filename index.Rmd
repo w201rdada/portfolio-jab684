@@ -19,12 +19,12 @@ library(magrittr)
 knitr::include_graphics('img/hello-world.png')
 ```
 
-Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland direct trade, XOXO odio gochujang banjo deep v sustainable.  Sint  jianbing DIY humblebrag heirloom exercitation ennui fanny pack.  Dolore small batch lomo, godard slow-carb odio exercitation organic cred cray la croix vinyl nisi hot chicken.  Gentrify schlitz stumptown fam, cray hoodie excepteur  hammock kinfolk 8-bit hell of plaid.  Helvetica hashtag pinterest typewriter, tbh vape vero farm-to-table.  Laboris  bitters aliqua small batch.
+Welcome to my website! Please find my \textbf{Big Ideas} on this site. I've listed abstracts below - if one strikes your fancy, please navigate to it on the left sidebar to learn more!
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
 ```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
+#knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
 ### Abstract of my first cool idea
@@ -37,6 +37,6 @@ Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  
 
 ## About the author
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+Hi! Julia Buffinton here. If you're on this site then you're probably also a MIDS student. But, if not - I'm currently embracing my passion for data as a student in the a Master of Information and Data Science program at the University of California, Berkeley. Somehow I find time to do this in addition to my full time job at a government relations consulting firm, McAllister & Quinn, in downtown Washington, D.C. In my remaining spare time, I also enjoy coordinating alumni relations and development activities as a member of the board of directors for the [Cornell Club of Washington](https://cornellclubdc.org) and [WVBR 93.5 FM](https://wvbr.com) in Ithaca, NY. 
 
 *Updated: `r Sys.Date()`*
