@@ -11,7 +11,7 @@ Achieving this lofty goal requires a sophisticated approach to optimizing market
 
 
 ## Philanthropy optimization made easy
-Our software tool, FUNdraiser, goes beyond current approaches that focus primarily on descriptive statistics and analysis from email marketing, donations, and events. It easily imports existing data about donor demographic information, giving history, and online and in-person engagement. FUNdraiser then develops an algorithm based that is used to build a predictive model for a particular donor’s (or group of donors’) likelihood to give. The process is iterative: FUNdraiser integrates with email, donation tracking, and event registration platforms so it can easily gather new data to update its algorithm and identify strong predictors of giving over time. 
+Our software tool, FUNdraiser, goes beyond current approaches that focus primarily on descriptive statistics and analysis from email marketing, donations, and events. It easily imports existing data about donor demographic information, giving history, and online and in-person engagement. FUNdraiser then develops an algorithm that is used to build a predictive model for a particular donor’s (or group of donors’) likelihood to give. The process is iterative: FUNdraiser integrates with email, donation tracking, and event registration platforms so it can easily gather new data to update its algorithm and identify strong predictors of giving over time. 
 
 FUNdraiser also allows you to quickly segment data so you can create new campaigns and change the optimization goal with just the click of a button. This way, you can monitor multiple campaigns, from increasing philanthropic engagement by recent alumni to maximizing gifts over $1,000,000.
 
