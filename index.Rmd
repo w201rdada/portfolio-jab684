@@ -27,15 +27,15 @@ Welcome to my website! Please find my \textbf{Big Ideas} on this site. I've list
 #knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea
+### Abstract of my first cool idea {-}
 
 Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
 
-### Abstract of my second cool idea
+### Abstract of my second cool idea {-}
 
 Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
 
-## About the author
+## About the author {-}
 
 Hi! Julia Buffinton here. If you're on this site then you're probably also a MIDS student. But, if not - I'm currently embracing my passion for data as a student in the a Master of Information and Data Science program at the University of California, Berkeley. Somehow I find time to do this in addition to my full time job at a government relations consulting firm, McAllister & Quinn, in downtown Washington, D.C. In my remaining spare time, I also enjoy coordinating alumni relations and development activities as a member of the board of directors for the [Cornell Club of Washington](https://cornellclubdc.org) and [WVBR 93.5 FM](https://wvbr.com) in Ithaca, NY. 
 
