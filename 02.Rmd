@@ -1,10 +1,10 @@
-# Putting the "fun" back in fundraising {#optimizing-fundraising-efforts}
+# Putting the "Fun" Back in Fundraising {#optimizing-fundraising-efforts}
 
 #### Keywords {-}
 
 philanthropy; fundraising; university; nonprofit; development; donor
 
-## Increasing philanthropy without increasing expenditures
+## Increase giving without increasing expenditures
 Philanthropy and funraising are key to survival for non-profit organizations, particularly universities. Federal and state government support goes primarily to public universities^1^, but almost 20%^2^ of college students attend private universities. These universities must rely more heavily on philanthropy to support project-based endeavors, special interest groups, upgrading/repairing facilities, and most importantly, scholarships to supplement income from tuition and grants. As the need for funding increases, resources to achieve it stagnate. Therefore, fundraising and development team must strive for the perfect balance of minimizing cost to fundraise (personnel, venues, food, goods, etc.) while increasing giving (amount, frequency, and reach).
 
 Achieving this lofty goal requires a sophisticated approach to optimizing marketing and outreach campaigns. Luckily, universities collect a lot of data on donors, which is increasingly easier in this day and age, but most don’t know what to do with it. This is where we come in – we can help your university better utilize donor data to increase fundraising capabilities while decreasing cost. 
@@ -18,7 +18,7 @@ FUNdraiser also allows you to quickly segment data so you can create new campaig
 In FUNdraiser, results are clearly displayed using state-of-the-art data visualization tools that can be easily understood by all interested parties, such as development officers, board members, and CEOs. Our comprehensive fundraising support system also offers one-on-one consulting for how to use these results for annual and long-term planning, large- and small-scale budgeting, and short-term prediction for smaller campaigns and outreach.
 
 
-## To millions and beyond
+## To million$ and beyond
 Correctly using the insights gathered through FUNdraiser can result in huge financial gains for your university. As endowments grow, you can re-invest in students through financial aid or educational initiatives that enhance the learning experience. This ultimately drives interest and prestige for your university so it can develop in the future.
 
 One area of growth for FUNdraiser is a feature that show “up and coming” donors – they may not have a high potential to give at the moment, but small changes in outreach or alternative campaigns could drastically increase their potential. Just because a particular factor is currently less of a predictor, or a certain individual is less likely to give, that may change in the future as a result of actions taken. Current tools, including FUNdraiser, are unable to account for this. Personal outreach and building connections drive engagement, which is ultimately reflected in the data. FUNdraiser is most effective when used to inform these interactions, the results of which can be re-introduced to the model to enhance fundraising efforts. 

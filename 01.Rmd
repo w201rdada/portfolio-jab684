@@ -4,18 +4,18 @@
 
 customers, clients, retention, turnover, churn, loyalty
 
-## The problem.
+## Customer Retention: Easier Said than Done
 
 All businesses share the goal of increasing profit; however, many businesses struggle to find the balance between devoting resources to customer acquisition vs. customer retention. While both are critical to a business’s success, customer retention is a more efficient and effective way to grow profit. Overall, customers are more likely to spend more money with companies they’ve already done business with^1^ and customer retention can cost up to seven times less than customer acquisition^2^. 
 
 Although the customer and the product/service varies, businesses from many sectors share the goal of improving customer retention rates. Whether it’s a department store serving shoppers, sporting venue serving ticket holders, or consulting firms serving clients, a business can increase customer retention by improving customer services and refining business development efforts. Achieving these can only be done with a thorough understanding of a business’s customers.
 
 
-## The solution.
+## Predicting Loyalty
 
 I propose a tool that can be used by research analysts, sales teams, relationship managers, or marketing professionals to identify characteristics of loyal customers to help the business understand how to better serve these customers with the goal of improving customer retention. This tool will examine trends in the characteristics of loyal (and un-loyal) customers to determine which characteristics indicate the likelihood of a customer to renew. Then, based on these characteristics, the tool develops a scoring algorithm indicating how likely a customer is to renew. It can be applied to all customers, highlighting those who are very likely or very unlikely to renew so the business can react accordingly. This tool can also be applied to prospective customers so that sales and business development teams can focus on marketing to types of customers that are more likely to be retained once they are acquired.
 
-## The outcomes.
+## The Sky's the Limit: Increase Profits with Increased Retention
 
 By revealing which customers are more likely to remain loyal, businesses can use this tool to focus on developing their product or service to better serve those customers’ needs. And, by highlighting which customers may be at risk of not renewing, the business can address potential issues to encourage them to renew. As a result, using this solution can dramatically improve customer retention and increase profit. Studies show that increasing customer retention by just 5% can lead to an increase in profit of up to 95%^3^, so small adjustments can make a large impact.
 

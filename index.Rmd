@@ -24,14 +24,14 @@ Welcome to my website! Please find my **Big Ideas** on this site. I've listed ab
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
 ```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-#knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
+knitr::include_url('https://drive.google.com/file/d/1uEorjBlDg7zGZguwjeeIro038e9Y5kUl/view?usp=sharing')
 ```
 
-### Abstract of my first cool idea: How to Win Customers and Keep ’Em {-}
+### How to Win Customers and Keep ’Em {-}
 
 Businesses across industries operate with the goal of building a customer base and retaining those customers. In general, retention requires fewer resources than recruitment, and loyal customers have the potential to be incredibly profitable. My easy-to-use, data-driven application predicts a customer's likelihood to be loyal, allowing businesses to allocate resources to customers with the greatest loyalty potential. 
 
-### Abstract of my second cool idea: Putting the “fun” back in fundraising {-}
+### Putting the “Fun” Back in Fundraising {-}
 
 Nonprofits, particularly universities, rely heavily on charitable gifts to survive. Prioritizing development efforts is key to maximizing gifts while minimizing the strain on a development department. My software tool, FUNdraiser, goes beyond current approaches that focus primarily on descriptive statistics. It takes advantage of existing data about donors to develop an algorithm  that is used to build a predictive model for a particular donor’s (or group of donors’) likelihood to make a charitable donation. 
 
