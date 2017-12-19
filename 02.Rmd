@@ -5,13 +5,15 @@
 philanthropy; fundraising; university; nonprofit; development; donor
 
 ## Increase giving without increasing expenditures
-Philanthropy and funraising are key to survival for non-profit organizations, particularly universities. Federal and state government support goes primarily to public universities^1^, but almost 20%^2^ of college students attend private universities. These universities must rely more heavily on philanthropy to support project-based endeavors, special interest groups, upgrading/repairing facilities, and most importantly, scholarships to supplement income from tuition and grants. As the need for funding increases, resources to achieve it stagnate. Therefore, fundraising and development team must strive for the perfect balance of minimizing cost to fundraise (personnel, venues, food, goods, etc.) while increasing giving (amount, frequency, and reach).
+Philanthropy and funraising are key to survival for non-profit organizations, particularly universities.
+Federal and state government support goes primarily to public universities<sup>1</sup>, but almost 20%<sup>2</sup> of college students attend private universities. These universities must rely more heavily on philanthropy to fund what tuition and grants do not cover: project-based endeavors, special interest groups, upgrading/repairing facilities, and most importantly, scholarships. As the need for funding increases, resources to achieve it stagnate. Therefore, university fundraising and development teams must strive for the perfect balance of minimizing the cost of fundraising (personnel, venues, food, goods, etc.) while increasing giving (amount, frequency, and reach).
 
-Achieving this lofty goal requires a sophisticated approach to optimizing marketing and outreach campaigns. Luckily, universities collect a lot of data on donors, which is increasingly easier in this day and age, but most don’t know what to do with it. This is where we come in – we can help your university better utilize donor data to increase fundraising capabilities while decreasing cost. 
+Achieving this lofty goal requires a sophisticated approach to optimizing marketing and outreach campaigns. Luckily, universities collect a lot of data on donors, which is increasingly easier in this day and age. However, most don’t know what to do with it. This is where we come in – we can help your university better utilize donor data to increase fundraising capabilities while decreasing cost. 
 
 
 ## Philanthropy optimization made easy
-Our software tool, FUNdraiser, goes beyond current approaches that focus primarily on descriptive statistics and analysis from email marketing, donations, and events. It easily imports existing data about donor demographic information, giving history, and online and in-person engagement. FUNdraiser then develops an algorithm that is used to build a predictive model for a particular donor’s (or group of donors’) likelihood to give. The process is iterative: FUNdraiser integrates with email, donation tracking, and event registration platforms so it can easily gather new data to update its algorithm and identify strong predictors of giving over time. 
+Our software tool, FUNdraiser, goes beyond current approaches that focus primarily on descriptive statistics and analysis from email marketing, donations, and events.
+It easily integrates with the leading donor management software systems to import existing data about donor demographic information, giving history, and online and in-person engagements. FUNdraiser then develops a predictive model for a particular donor’s (or group of donors’) likelihood to give. The process is iterative: FUNdraiser integrates with email, donation tracking, and event registration platforms so it can easily gather new data to update its algorithm and identify strong predictors of giving over time. 
 
 FUNdraiser also allows you to quickly segment data so you can create new campaigns and change the optimization goal with just the click of a button. This way, you can monitor multiple campaigns, from increasing philanthropic engagement by recent alumni to maximizing gifts over $1,000,000.
 
@@ -19,10 +21,11 @@ In FUNdraiser, results are clearly displayed using state-of-the-art data visuali
 
 
 ## To million$ and beyond
+
+One area of growth for FUNdraiser is a feature that shows “up and coming” donors – they may not have a high potential to give at the moment, but small changes in outreach or alternative campaigns could drastically increase their potential.
+Just because a particular factor is currently less of a predictor, or a certain individual is less likely to give, that may change in the future as a result of actions taken. Current tools, including FUNdraiser, are unable to account for this. Personal outreach and building connections drive engagement, which is ultimately reflected in the data. FUNdraiser is most effective when used to inform these interactions, the results of which can be re-introduced to the model to enhance fundraising efforts. 
+
 Correctly using the insights gathered through FUNdraiser can result in huge financial gains for your university. As endowments grow, you can re-invest in students through financial aid or educational initiatives that enhance the learning experience. This ultimately drives interest and prestige for your university so it can develop in the future.
-
-One area of growth for FUNdraiser is a feature that show “up and coming” donors – they may not have a high potential to give at the moment, but small changes in outreach or alternative campaigns could drastically increase their potential. Just because a particular factor is currently less of a predictor, or a certain individual is less likely to give, that may change in the future as a result of actions taken. Current tools, including FUNdraiser, are unable to account for this. Personal outreach and building connections drive engagement, which is ultimately reflected in the data. FUNdraiser is most effective when used to inform these interactions, the results of which can be re-introduced to the model to enhance fundraising efforts. 
-
 
 ## Bibliography
 
